@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Norihide Kitaoka | Kengo Ohta</title>
+    <link>/en/author/norihide-kitaoka/</link>
+      <atom:link href="/en/author/norihide-kitaoka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Norihide Kitaoka</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Norihide Kitaoka</title>
+      <link>/en/author/norihide-kitaoka/</link>
+    </image>
+    
+    <item>
+      <title>Type of Response Selection utilizing User Utterance Word Sequence, LSTM and Multi-task Learning for Chat-like Spoken Dialog Systems</title>
+      <link>/en/publication/ohta-2019-type/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2019-type/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting type of response for chat-like spoken dialogue systems based on acoustic features of user utterances</title>
+      <link>/en/publication/ohta-2017-selecting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2017-selecting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

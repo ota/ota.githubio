@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Kengo Ohta</title>
+    <link>/en/publication/</link>
+      <atom:link href="/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Type of Response Selection utilizing User Utterance Word Sequence, LSTM and Multi-task Learning for Chat-like Spoken Dialog Systems</title>
+      <link>/en/publication/ohta-2019-type/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2019-type/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hmm-based speech synthesizer for easily understandable speech broadcasting</title>
+      <link>/en/publication/akadomari-2018-hmm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/akadomari-2018-hmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting type of response for chat-like spoken dialogue systems based on acoustic features of user utterances</title>
+      <link>/en/publication/ohta-2017-selecting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2017-selecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic parser for easy understandable speech broadcasting</title>
+      <link>/en/publication/kobayashi-2017-semantic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/kobayashi-2017-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech intelligibility prediction method using machine learning for outdoor public address systems</title>
+      <link>/en/publication/kobayashi-2016-speech/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/kobayashi-2016-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing Partially-Transcribed Speech Corpus from Edited Transcriptions.</title>
+      <link>/en/publication/ohta-2012-developing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2012-developing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of large vocabulary continuous speech recognition system for Mongolian language</title>
+      <link>/en/publication/nakagawa-2012-development/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/en/publication/nakagawa-2012-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of precisely transcribed parts from inexact transcribed corpus</title>
+      <link>/en/publication/ohta-2011-detection/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2011-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective use of pause information in language modelling for speech recognition</title>
+      <link>/en/publication/ohta-2009-effective/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2009-effective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing Corpus of Japanese Classroom Lecture Speech Contents.</title>
+      <link>/en/publication/tsuchiya-2008-developing/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/en/publication/tsuchiya-2008-developing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating spoken language model based on filler prediction model in speech recognition</title>
+      <link>/en/publication/ohta-2008-evaluating/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2008-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of Spoken Language Model Including Fillers Using Filler Prediction Model</title>
+      <link>/en/publication/ohta-2007-construction/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2007-construction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

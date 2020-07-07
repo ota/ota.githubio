@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rikito Marumoto | Kengo Ohta</title>
+    <link>/en/author/rikito-marumoto/</link>
+      <atom:link href="/en/author/rikito-marumoto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rikito Marumoto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rikito Marumoto</title>
+      <link>/en/author/rikito-marumoto/</link>
+    </image>
+    
+    <item>
+      <title>Selecting type of response for chat-like spoken dialogue systems based on acoustic features of user utterances</title>
+      <link>/en/publication/ohta-2017-selecting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohta-2017-selecting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
